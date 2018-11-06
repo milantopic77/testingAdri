@@ -1,0 +1,19 @@
+//Create a gist
+{
+"description": "Creation of a gists",
+"public": true
+"files": {
+    "firstgistfile_rubymine.txt": {
+        "content": "'Run ruby firstgistfile.rm' to print Creation of a gists"
+                                   }
+
+        }
+
+
+}
+
+
+//Retrieve gists
+
+//Delete gist
+DELETE /gists/:gist_id
